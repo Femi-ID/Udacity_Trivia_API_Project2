@@ -2,7 +2,7 @@
 ## Trivia  API Documentation
 
 ### Getting Started
-- Base URL: This app can only be run locally and it isn't hosted as a base URL. The backend app is hosted at the default, `http://127.0.0.1:3000/questions`, which is set as a proxy in the frontend configuration. 
+- Base URL: This app can only be run locally and it isn't hosted as a base URL. The backend app is hosted at the default, `http://127.0.0.1:5000/questions`, which is set as a proxy in the frontend configuration. 
 - Authentication: This version of the application does not require authentication or API keys.
 
 ### Error Handling
